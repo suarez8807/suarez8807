@@ -1,4 +1,4 @@
-# 👋 Hola, soy Edison Stiven Suarez Alvarez
+<p style="color:blue"># 👋 Hola, soy Edison Stiven Suarez Alvarez</p>
 
 ### Backend Java Developer · Android · APIs REST · Spring Boot
 
